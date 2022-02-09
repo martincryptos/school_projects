@@ -1,0 +1,15 @@
+H1 {
+  color: blue;
+  align-content: left;
+  align-items: right;
+}
+body {
+  animation-duration: 60;
+  background: black;
+  text-decoration-style: double;
+}
+H2 {
+  color: red;
+  hyphens: manual;
+  text-shadow: 100
+}

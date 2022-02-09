@@ -1,0 +1,13 @@
+H1 {
+  text-align: right;
+  font-style: italic;
+  shape-inside: circle();
+  region-break-after: avoid;
+  src: url();
+}
+body {
+  animation-name: none;
+  /* QUESTION: Qual es la fecha? */
+  display: run-in;
+  filter: hue-rotate();
+}

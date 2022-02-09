@@ -1,0 +1,40 @@
+body {
+  font-weight: bolder;
+  color: white;
+}
+H1 {
+  color: purple;
+  top: 0em;
+  left: 4em;
+}
+H2 {
+  color: blue;
+  top: 0em;
+  right: 4em;
+}
+ul.1 li {
+  background-color: white;
+  border-right: 2em solid black;
+}
+ul.1 {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em;
+}
+ul.2 {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 4em;
+  right: 1em;
+  width: 9em;
+}
+ul.2 li {
+  background-color: grey;
+  border-left: 2 em solid white;
+}
